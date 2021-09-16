@@ -6,6 +6,12 @@
 
 Projeto da ***Maratona JS 3***.
 
+<h2 align="center"><a href="https://typing-edujudici.vercel.app/" target="_blank">Veja meu projeto como ficou!</a></h2>
+<br>
+
+O Typing Game é um projeto desenvolvido durante a Maratona de Javascript 3 promovido pelo super
+- <a href="https://twitter.com/emersonbrogadev">Emerson Broga</a> <br>
+
 ## ✨ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
