@@ -6,29 +6,25 @@
 
 Projeto da ***Maratona JS 3***.
 
-O conteúdo desse repositório, faz parte do material didático do curso "Dev Sem Fronteiras", 
-também conhecido como "Curso de React/NodeJS" do [Emerson Brôga Dev](https://emersonbroga.com/instagram).
+## ✨ Tecnologias
 
-<p align="left">
-Feito com <img src="https://img.icons8.com/color/48/000000/like--v3.png" width="20" height="20" /> usando <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="20" height="20"/>. Esse repositório e o video têm fins educativos.
-</p>
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-<img src="https://emersonbroga.com/e/assets/emersonbroga-logo-name-pink.png" alt="Emerson Broga Logo Pink"  height="80"/>
+- [ReactJS](https://reactjs.org)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-#### Se ainda não segue, veja minhas outras Redes Sociais
+## 🚀 Como executar
 
-[![instagram.com/emersonbrogadev](https://github.com/emersonbroga/social-media-snippets/blob/master/static/instagram.png?raw=true)](https://emersonbroga.com/instagram) 
-[![youtube.com/c/emersonbrogadev](https://github.com/emersonbroga/social-media-snippets/blob/master/static/youtube.png?raw=true)](https://emersonbroga.com/youtube)
-[![facebook.com/emersonbrogadev](https://github.com/emersonbroga/social-media-snippets/blob/master/static/facebook.png?raw=true)](https://emersonbroga.com/facebook)
-[![twitter.com/emersonbrogadev](https://github.com/emersonbroga/social-media-snippets/blob/master/static/twitter.png?raw=true)](https://emersonbroga.com/twitter)
-[![github.com/emersonbroga](https://github.com/emersonbroga/social-media-snippets/blob/master/static/github.png?raw=true)](https://emersonbroga.com/github)
+    - Clonar repositorio
+    $ git clone https://github.com/edujudici/typing.git && cd typing
 
+    - Instalar dependencias
+    $ npm install
 
-## Você fez também?
+    - Rodar aplicativo
+    $ npm start
 
-Se você fizer o projeto tambem, me manda o link que eu coloco aqui, ou então envia uma PR!
-
-- [@emersonbroga](https://github.com/emersonbroga/super-shoes)
+Acesse [`localhost:3000`](http://localhost:3000) no seu navegador.
 
   
 
